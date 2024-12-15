@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @pavwlik
+- 👀 I’m interested in Artificial Intelligence, productivity programs nad programming!
