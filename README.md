@@ -6,7 +6,7 @@
 - 🛠️ Currently working on **awesome projects** :)
 
 ## 🔗 Connect with me:
-<p align="center">
+<p>
   <a href="https://linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
