@@ -7,7 +7,7 @@
 
 ## 🔗 Connect with me:
 <p>
-  <a href="[https://linkedin.com/](https://www.linkedin.com/in/pavel-bure%C5%A1-71992b311/)" target="_blank">
+  <a href="https://www.linkedin.com/in/pavel-bure%C5%A1-71992b311/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/pavwlik" target="_blank">
@@ -20,3 +20,6 @@
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet">
