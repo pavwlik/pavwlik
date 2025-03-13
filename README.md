@@ -7,8 +7,8 @@
 
 ## 🔗 Connect with me:
 <p>
-  <a href="https://www.linkedin.com/in/pavel-bure%C5%A1-71992b311/" target="_blank">
-    <span class="material-symbols-outlined" style="font-size:24px;"></span>
+  <a href="https://instagram.com/pavwlik" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/pavwlik" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white" />
