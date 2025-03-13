@@ -11,12 +11,18 @@
 - 🚀 Always learning and improving
 - 🛠️ Currently working on **awesome projects**
 
-## 🚀 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawwlik&show_icons=true&theme=radical" height="165">
-  <img src="https://streak-stats.demolab.com/?user=pawwlik&theme=radical" height="165">
-</p>
-
 ## 🔗 Connect with me:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+<p align="center">
+  <a href="https://linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
