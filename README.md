@@ -1,35 +1,22 @@
 <h1 align="center">Hi, I'm Pawwlik 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawwlik&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
-### ⏳ Last updated: <!-- TIME -->
-
 ## 📌 About me:
-I’m interested in Artificial Intelligence, productivity programs and programming!
-
-## 🚀 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawwlik&show_icons=true&theme=radical" height="165">
-  <img src="https://streak-stats.demolab.com/?user=pawwlik&theme=radical" height="165">
-</p>
+- 👨‍💻 I’m interested in Artificial Intelligence, productivity programs and programming!
+- 🚀 Always learning and improving
+- 🛠️ Currently working on **awesome projects** :)
 
 ## 🔗 Connect with me:
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/" target="_blank">
-    <i class="fa-brands fa-linkedin" style="font-size:24px"></i> LinkedIn
-  </a> |
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://instagram.com/" target="_blank">
-    <i class="fa-brands fa-instagram" style="font-size:24px"></i> Instagram
-  </a> |
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://facebook.com/" target="_blank">
-    <i class="fa-brands fa-facebook" style="font-size:24px"></i> Facebook
-  </a> |
+    <img src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
   <a href="mailto:your.email@example.com" target="_blank">
-    <i class="fa-solid fa-envelope" style="font-size:24px"></i> Email
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<!-- FontAwesome Icons -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
