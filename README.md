@@ -18,7 +18,7 @@ V ROI digital stavím automatizace a interní nástroje a učím kolegy pracovat
 
 | Projekt | Co to je |
 | --- | --- |
-| **[Edulity](https://edulity.cz)** | Na maturitu se tu připravuješ přes hry a simulace didaktických testů. Je zdarma, bez reklam a používá ho přes 4 500 studentů. |
+| **[Edulity](https://edulity.cz)** | Na maturitu se tu připravuješ přes hry a simulace didaktických testů. Je zdarma, bez reklam a používá ho přes 8 000 studentů. |
 | **[Hearflow](https://hearflow.app)** | Nahraješ přednášku a dostaneš z ní skripta. |
 | **[WavePass](https://github.com/pavwlik/WavePass)** | Docházkový systém pro zaměstnance škol. |
 
