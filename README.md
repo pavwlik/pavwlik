@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
-  <img src="assets/hero-light.svg" width="100%" alt="Pavel Bureš. Automation, internal tools and development. IT specialist at ROI digital, founder of Edulity and Hearflow. While the team sleeps: orders are imported, stock is synced, falling margins are flagged, purchase orders are drafted, and a summary waits in the team chat at 07:30." />
+  <img src="assets/hero-light.svg" width="100%" alt="Pavel Bureš. Automatizace, interní nástroje a vývoj. IT specialista v ROI digital, zakladatel Edulity a Hearflow. Pomáhám lidem s AI." />
 </picture>
 
 <p>
@@ -10,22 +10,22 @@
   <a href="https://hearflow.app">hearflow.app</a>
 </p>
 
-## What I do
+## Co dělám
 
-I take work that people do by hand and hand it to software. At ROI digital that means automations and internal tools for the team, plus training colleagues to prompt and build AI into their everyday work. In my own time I build products for students.
+V ROI digital stavím automatizace a interní nástroje a učím kolegy pracovat s AI. Po práci a škole dělám na vlastních projektech.
 
-## Projects
+## Projekty
 
-| Project | What it is |
+| Projekt | Co to je |
 | --- | --- |
-| **[Edulity](https://edulity.cz)** | Maturita prep that works like a game: practice rounds, real test simulations, a personal mistakes log and multiplayer. Free and ad-free, used by 4,500+ students, with a class mode for teachers. |
-| **[Hearflow](https://hearflow.app)** | Turns a recorded lecture into study notes. |
-| **[WavePass](https://github.com/pavwlik/WavePass)** | Attendance tracking for school staff, with real-time presence and reports. |
+| **[Edulity](https://edulity.cz)** | Na maturitu se tu připravuješ přes hry a simulace didaktických testů. Je zdarma, bez reklam a používá ho přes 4 500 studentů. |
+| **[Hearflow](https://hearflow.app)** | Nahraješ přednášku a dostaneš z ní skripta. |
+| **[WavePass](https://github.com/pavwlik/WavePass)** | Docházkový systém pro zaměstnance škol. |
 
-## Tools I use most
+## Nejčastěji používám
 
-Next.js, TypeScript, Supabase and Python, with AI models wherever they save real time.
+Next.js, TypeScript, Supabase a Python.
 
-## Work with me
+## Ozvi se
 
-If there's a process in your company that eats hours every week, [send me a message](mailto:pavelbures07@gmail.com) and we'll see what can run on its own.
+Chceš, aby AI ve tvé firmě něco opravdu ulehčila? [Napiš mi.](mailto:pavelbures07@gmail.com)
