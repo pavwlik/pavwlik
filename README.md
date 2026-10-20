@@ -6,7 +6,8 @@
 <p>
   <a href="https://www.linkedin.com/in/pavel-bures07/">LinkedIn</a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:pavelbures07@gmail.com">pavelbures07@gmail.com</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://edulity.cz">edulity.cz</a>
+  <a href="https://edulity.cz">edulity.cz</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://hearflow.app">hearflow.app</a>
 </p>
 
 ## What I do
@@ -15,7 +16,7 @@ I take work that people do by hand and hand it to software. At ROI digital that 
 
 ## Projects
 
-| | |
+| Project | What it is |
 | --- | --- |
 | **[Edulity](https://edulity.cz)** | Maturita prep that works like a game: practice rounds, real test simulations, a personal mistakes log and multiplayer. Free and ad-free, used by 4,500+ students, with a class mode for teachers. |
 | **[Hearflow](https://hearflow.app)** | Turns a recorded lecture into study notes. |
